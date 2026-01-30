@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // IMPORTANT: Replace these placeholder values with your actual EmailJS credentials
     // Get these from your EmailJS dashboard: https://dashboard.emailjs.com/
     
-    const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';      // Replace with your EmailJS service ID
-    const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';    // Replace with your EmailJS template ID
-    const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY';      // Replace with your EmailJS public key
+    const EMAILJS_SERVICE_ID = 'service_1qnhfkq';      // Replace with your EmailJS service ID
+    const EMAILJS_TEMPLATE_ID = 'template_wmv8ddh';    // Replace with your EmailJS template ID
+    const EMAILJS_PUBLIC_KEY = '9n8YtSHNsgKTVGWew';      // Replace with your EmailJS public key
     
     // Initialize EmailJS with your public key
     emailjs.init(EMAILJS_PUBLIC_KEY);
